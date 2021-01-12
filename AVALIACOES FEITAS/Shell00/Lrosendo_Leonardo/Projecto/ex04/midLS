@@ -1,0 +1,9 @@
+ -m      Stream output format; list files across the page, 
+separated by commas.
+
+
+-U      Use time of file creation, instead of last modification for sorting (-t) or long output (-l).
+
+     
+-A      List all entries except for . and ...  Always set for the super-user.q
+

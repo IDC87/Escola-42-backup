@@ -1,0 +1,5 @@
+Credentials cache: API:EC6B7C2B-98C8-4272-8BBC-E918DE91A435
+        Principal: mmax@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  7 12:23:08 2021  Jan  7 22:23:05 2021  krbtgt/42LISBOA.COM@42LISBOA.COM

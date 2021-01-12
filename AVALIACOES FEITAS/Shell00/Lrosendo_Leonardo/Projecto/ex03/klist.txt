@@ -1,0 +1,6 @@
+Credentials cache: API:45C7D5B9-BDAD-43FF-B67E-17A2E82BBD8A
+        Principal: lrosendo@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  4 15:07:20 2021  Jan  5 01:07:20 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Jan  4 15:07:21 2021  Jan  5 01:07:20 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM

@@ -1,0 +1,5 @@
+Credentials cache: API:572DF249-CB6D-4CBC-AF6B-4B26F58E93AD
+        Principal: ida-cruz@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  4 20:04:17 2021  Jan  5 06:03:59 2021  krbtgt/42LISBOA.COM@42LISBOA.COM

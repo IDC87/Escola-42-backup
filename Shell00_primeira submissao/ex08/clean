@@ -1,0 +1,4 @@
+find . -type f \( -name '*~' -or -name '#*#' \) -print -delete
+
+# o parâmetro "-type f" foi adicionado apos a primeira nota como correção do exercício!
+Foi o único aspecto errado do projecto.
